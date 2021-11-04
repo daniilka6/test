@@ -1,0 +1,51 @@
+body {
+    color: black;
+    font-size: 20px;
+}
+h1 {
+    color: red;
+    font-size: 60px;
+}
+h2 {
+    color:snow;
+    background: green;
+}
+p.new {
+    color: snow;
+    background: blue;
+    width: 125px;
+    height: 92px;
+    
+}
+p.two {
+    padding-top: 100px;
+}
+.two span {
+    color: red;
+}
+
+h2.new {
+    padding: 8px 5px; 
+}
+
+h2.two {
+        padding: 50px 50px; 
+}
+p.three {
+    padding: 0 80px;
+}
+.list li {
+    border: 2px solid black ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
